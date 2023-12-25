@@ -1,0 +1,7 @@
+
++getline(file, line)
+->Đối tượng đọc là file và lưu vào line
++getline(file,line,'|')
+->Đối tượng đọc là file lưu vào line đến kí tự '|' thì kết thúc đọc  
+istringstream define(string a)
+->Đưa về 1 chuỗi cơ bản để dễ dàng truy xuất(vd như dùng strtok())
